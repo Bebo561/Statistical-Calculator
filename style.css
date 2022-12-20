@@ -1,0 +1,47 @@
+body{
+    background-image: linear-gradient(white,#7d0d83);
+    height: 100vh;
+}
+h1{
+    justify-content: center;
+    text-align: center;
+    font-weight: bold;
+}
+#calc{
+    height: 90vh;
+    width: 90vh;
+    border: 2px solid black;
+    margin-top: 20px;
+}
+.form-group{
+    padding-top: 40px;
+}
+.col-10{
+    padding-top: 20px;
+    padding-left: 10px;
+    text-decoration: underline;
+}
+#half1{
+    background-color: rgb(214, 22, 214);
+    text-align: center;
+    display: flex;
+    width: 45vh;
+    height: 90vh;
+    float: left;
+    border-bottom: 2px solid black;
+}
+#half2{
+    background-color: white;
+    text-align: center;
+    display: flex;
+    width: 45vh;
+    height: 90vh;
+    float: right;
+    border-bottom: 2px solid black;
+}
+.text-wrap{
+    padding-top: 40px;
+}
+h3{
+    text-decoration: underline;
+}
